@@ -20,6 +20,6 @@ Welcome to my personal portfolio repository! 🎨 This project showcases my skil
   
 
 ## 🌐 Live Demo  
-Check out the live version of my portfolio [here](https://suryasaroj24.netlify.app/). *(Replace with your actual live URL)*  
+Check out the live version of my portfolio [here](https://suryasaroj24.netlify.app/).
 
 ---  
