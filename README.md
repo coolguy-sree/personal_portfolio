@@ -1,25 +1,23 @@
 
-# Personal Portfolio  
-
-Welcome to my personal portfolio repository! 🎨 This project showcases my skills, experiences, and projects as a developer, built using modern tools and frameworks to ensure a seamless and engaging user experience.  
+# Personal Portfolio
 
 
+## 🚀 About the Project
 
-## 🚀 Features  
-- **Responsive Design**: Optimized for all devices, from desktops to mobile.  
-- **Interactive UI**: Built with **React** and styled with modern libraries.  
-- **Lightning Fast**: Powered by **Vite** for a superior development and build process.  
-- **Iconography**: Utilizes **Lucide** for beautiful, consistent icons.  
-- **Showcase Section**: Highlights my professional journey, projects, and skills.  
+This is my personal portfolio built to showcase my skills, projects, and experience. It is designed to highlight my technical expertise and provide an engaging experience for visitors. 
 
-## 🛠️ Built With  
-- [React](https://reactjs.org/)  
-- [Vite](https://vitejs.dev/)  
-- [Lucide Icons](https://lucide.dev/)  
-- CSS Framework/Styling (Specify if you used Tailwind, Bootstrap, or custom CSS)  
-  
+## 🛠️ Technologies Used
+
+- **Frontend**: React, TypeScript, JavaScript, HTML, CSS
+- **Styling**: CSS frameworks/libraries (if applicable, e.g., Tailwind CSS, Bootstrap)
+- **Tools**: Git, Webpack 
+
+## 🌟 Features
+
+- Interactive and responsive design for seamless user experience
+- Projects section to showcase my best work
+- Contact form for easy communication
+- Responsive layout for optimal viewing on different devices
 
 ## 🌐 Live Demo  
 Check out the live version of my portfolio [here](https://suryasaroj24.netlify.app/).
-
----  
